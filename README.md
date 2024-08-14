@@ -1,5 +1,9 @@
 # Introduction 
-This project automatically tests the GET requests on the Swagger API website
+This project automatically tests the GET requests on the Swagger API website and returns the status call they are currently in. 
+
+200 = working
+400 = not authorized
+500 = internal server error
 
 # problem TO-DO:
 I can't seem to get the VScode to work in Git with the YAML even though it is the same code

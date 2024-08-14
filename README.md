@@ -2,7 +2,9 @@
 This project automatically tests the GET requests on the Swagger API website and returns the status call they are currently in. 
 
 200 = working
+
 400 = not authorized
+
 500 = internal server error
 
 # problem TO-DO:

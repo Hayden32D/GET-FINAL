@@ -72,3 +72,10 @@ There is a file named globalVars in both the GET and the POST folders.
 This is an important file. Any call that takes an input, the data comes from this file. 
 
 Feel free to check it out and replace it's data with new data for better testing.
+
+# Editing
+Feel free to edit and add new files once you find out how it works. 
+
+It is pretty readable and shouldn't be hard to find out how to add. 
+
+The skeleton.txt file is the main blueprint for almost every call you try.

@@ -1,4 +1,7 @@
 #Global variables used for the test files
+#Not all variables are valid (i.e. Contract ID)
+#Find out where the variables are being sent by searching through the files and change when wanting to input a new value.
+
 USER_ID = 284
 ID = 108
 CHAT_ID = 150
